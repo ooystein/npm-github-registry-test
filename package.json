@@ -1,0 +1,15 @@
+{
+  "name": "test-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@equinor/eds-tokens": "^0.1.0",
+    "@equinor/equinor-logo": "^1.0.7"
+  }
+}
